@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section5_Generics_0", "Sect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section4_ExtensionMethods_0", "Section4_Extension_0-Extension_methods\Section4_ExtensionMethods_0.csproj", "{94454FA8-51CC-49F7-BD55-D98615D85EE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section8_Asynchronous_programming", "Section8_Asynchronous_programming\Section8_Asynchronous_programming.csproj", "{AB2068A2-F35F-4919-9D12-458AAFA1DBCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{94454FA8-51CC-49F7-BD55-D98615D85EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94454FA8-51CC-49F7-BD55-D98615D85EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94454FA8-51CC-49F7-BD55-D98615D85EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB2068A2-F35F-4919-9D12-458AAFA1DBCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2068A2-F35F-4919-9D12-458AAFA1DBCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2068A2-F35F-4919-9D12-458AAFA1DBCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2068A2-F35F-4919-9D12-458AAFA1DBCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
